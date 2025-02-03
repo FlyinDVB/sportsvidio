@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
-#EXTINF:-1 tvg-id="Bein 1.id" tvg-logo="" group-title="VIDIO",BEIN 1
+#EXTINF:-1 tvg-id="bein 1.id" tvg-logo="" group-title="VIDIO",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -17,7 +17,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 
-#EXTINF:-1 tvg-id="Bein 2.id" tvg-logo="" group-title="VIDIO",BEIN 2
+#EXTINF:-1 tvg-id="bein 2.id" tvg-logo="" group-title="VIDIO",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -25,7 +25,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 
-#EXTINF:-1 tvg-id="Bein 3.id" tvg-logo="" group-title="VIDIO",BEIN 3
+#EXTINF:-1 tvg-id="bein 3.id" tvg-logo="" group-title="VIDIO",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -33,7 +33,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 
-#EXTINF:-1 tvg-id="Champions 1.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 1
+#EXTINF:-1 tvg-id="champions 1.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -41,7 +41,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=dash
 
-#EXTINF:-1 tvg-id="Champions 2.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 2
+#EXTINF:-1 tvg-id="champions 2.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -49,7 +49,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="Champions 3.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 3
+#EXTINF:-1 tvg-id="champions 3.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -57,7 +57,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="Champions 5.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 5
+#EXTINF:-1 tvg-id="champions 5.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -65,7 +65,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="Champions 6.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 6
+#EXTINF:-1 tvg-id="champions 6.id" tvg-logo="" group-title="VIDIO",CHAMPIONS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -105,7 +105,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
-#EXTINF:-1 tvg-id="Nba tv.id" tvg-logo="" group-title="VIDIO",NBA TV
+#EXTINF:-1 tvg-id="nba tv.id" tvg-logo="" group-title="VIDIO",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
