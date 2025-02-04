@@ -142,7 +142,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 #EXTVLCOPT:http-Sec-Fetch-Site=cross-site
 #EXTVLCOPT:http-Connection=keep-alive
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=xml
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
