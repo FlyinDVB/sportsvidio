@@ -113,6 +113,62 @@ https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=dash
 
+#EXTINF:-1 tvg-id="sctv hd.id" tvg-logo="" group-title="Video Free",Sctv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=204&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
+
+#EXTINF:-1 tvg-id="indosiar hd.id" tvg-logo="" group-title="Video Free",Indosiar HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+
+#EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Video Free",Moji HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=206&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
+
+#EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Video Free",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=734&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
+
+#EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Video Free",Trans tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=733&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
+
+#EXTINF:-1 tvg-id="tv one.id" tvg-logo="" group-title="Video Free",Tv One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=783&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
+
+#EXTINF:-1 tvg-id="antv.id" tvg-logo="" group-title="Video Free",AnTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=782&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
+
 #EXTINF:-1 tvg-id="SS Rugby" tvg-name="SS |RUGBY HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS RUGBY HD 
 http://ktv.im:8080/fullpack15months354/213907856/21352 
 
