@@ -1,196 +1,64 @@
-#EXTM3U
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png", group-title="VIDIO",Premier League
-#EXTINF:-1 tvg-id="premier league.id" tvg-logo="https://iili.io/2tGgozJ.png" group-title="VIDIO",Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
-
-#EXTINF:-1 tvg-id="bein 1.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
-
-#EXTINF:-1 tvg-id="bein 2.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
-
-#EXTINF:-1 tvg-id="bein 3.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
-
-#EXTINF:-1 tvg-id="champions 1.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",CHAMPIONS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=dash
-
-#EXTINF:-1 tvg-id="champions 2.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",CHAMPIONS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
-
-#EXTINF:-1 tvg-id="champions 3.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",CHAMPIONS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="champions 5.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",CHAMPIONS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="champions 6.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",CHAMPIONS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
-
-#EXTINF:-1 tvg-id="CTV Golf 1.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",Champion GOLF 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
-
-#EXTINF:-1 tvg-id="CTV Golf 2.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",Champion GOLF 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
-
-#EXTINF:-1 tvg-id="spotv 2.id" tvg-logo="https://iili.io/2tG89xR.png" group-title="VIDIO",SPOTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
-
-#EXTINF:-1 tvg-id="spotv 2.id" tvg-logo="https://iili.io/2tG8jea.png" group-title="VIDIO",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
-
-#EXTINF:-1 tvg-id="nba tv.id" tvg-logo="https://iili.io/2tGXwbI.png" group-title="VIDIO",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
-
-#EXTINF:-1 tvg-id="rock action.id" tvg-logo="https://iili.io/2tGWWw7.png" group-title="VIDIO",Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=dash
-
-#EXTINF:-1 tvg-id="rock ent.id" tvg-logo="https://iili.io/2tGw5Jf.png" group-title="VIDIO",Rock Ent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=dash
-
-#EXTINF:-1 tvg-id="SS Rugby" tvg-name="SS |RUGBY HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS RUGBY HD 
+#EXTINF:-1 tvg-id="SS Rugby" tvg-name="SS |RUGBY HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS RUGBY HD 
 http://ktv.im:8080/fullpack15months354/213907856/21352 
 
-#EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SS |GRANDSTAND HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS GRANDSTAND HD 
+#EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SS |GRANDSTAND HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS GRANDSTAND HD 
 http://ktv.im:8080/fullpack15months354/213907856/21354 
 
-#EXTINF:-1 tvg-id="SS | LaLiga" tvg-name="SS LALIGA HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS LALIGA HD 
+#EXTINF:-1 tvg-id="SS | LaLiga" tvg-name="SS LALIGA HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS LALIGA HD 
 http://ktv.im:8080/fullpack15months354/213907856/21355 
 
-#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS PREMIER LEAGUE HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS PREMIER LEAGUE HD 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS PREMIER LEAGUE HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS PREMIER LEAGUE HD 
 http://ktv.im:8080/fullpack15months354/213907856/21356 
 
-#EXTINF:-1 tvg-id="SS Football" tvg-name="SS FOOTBALL HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS FOOTBALL HD
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS FOOTBALL HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS FOOTBALL HD
 http://ktv.im:8080/fullpack15months354/213907856/21357 
 
-#EXTINF:-1 tvg-id="SS | PSL" tvg-name="SS PSL HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS PSL HD 
+#EXTINF:-1 tvg-id="SS | PSL" tvg-name="SS PSL HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS PSL HD 
 http://ktv.im:8080/fullpack15months354/213907856/21358 
 
-#EXTINF:-1 tvg-id="SS Action" tvg-name="SS |ACTION HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS ACTION HD 
+#EXTINF:-1 tvg-id="SS Action" tvg-name="SS |ACTION HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS ACTION HD 
 http://ktv.im:8080/fullpack15months354/213907856/21359 
 
-#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS VARIETY 1  HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS VARIETY 1  HD 
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS VARIETY 1  HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS VARIETY 1  HD 
 http://ktv.im:8080/fullpack15months354/213907856/21360 
 
-#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS VARIETY 2 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS VARIETY 2 HD 
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS VARIETY 2 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS VARIETY 2 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21361 
 
-#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS VARIETY 3 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS VARIETY 3 HD 
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS VARIETY 3 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS VARIETY 3 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21362 
 
-#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS VARIETY 4 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS VARIETY 4 HD 
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS VARIETY 4 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS VARIETY 4 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21363 
 
-#EXTINF:-1 tvg-id="SS | Blitz" tvg-name="SS | BLITZ HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS BLITZ HD 
+#EXTINF:-1 tvg-id="SS | Blitz" tvg-name="SS | BLITZ HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS BLITZ HD 
 http://ktv.im:8080/fullpack15months354/213907856/21364
 
-#EXTINF:-1 tvg-id="SS | MáXimo 1" tvg-name="SS | MAXIMO HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS MAXIMO HD
+#EXTINF:-1 tvg-id="SS | MáXimo 1" tvg-name="SS | MAXIMO HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS MAXIMO HD
 http://ktv.im:8080/fullpack15months354/213907856/21365 
 
-#EXTINF:-1 tvg-id="WWE.za" tvg-name="WWE CHANNEL HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",WWE CHANNEL HD 
+#EXTINF:-1 tvg-id="WWE.za" tvg-name="WWE CHANNEL HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",WWE CHANNEL HD 
 http://ktv.im:8080/fullpack15months354/213907856/21372 
 
-#EXTINF:-1 tvg-id="SS | OTT" tvg-name="SS | OTT 1 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 1 HD 
+#EXTINF:-1 tvg-id="SS | OTT" tvg-name="SS | OTT 1 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 1 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21374 
 
-#EXTINF:-1 tvg-id="SS | OTT 2" tvg-name="SS | OTT 2 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 2 HD 
+#EXTINF:-1 tvg-id="SS | OTT 2" tvg-name="SS | OTT 2 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 2 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21375 
 
-#EXTINF:-1 tvg-id="SS | OTT 3" tvg-name="SS | OTT 3 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 3 HD 
+#EXTINF:-1 tvg-id="SS | OTT 3" tvg-name="SS | OTT 3 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 3 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21376 
 
-#EXTINF:-1 tvg-id="SS | OTT 4" tvg-name="SS | OTT 4 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 4 HD 
+#EXTINF:-1 tvg-id="SS | OTT 4" tvg-name="SS | OTT 4 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 4 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21377 
 
-#EXTINF:-1 tvg-id="SS | OTT 5" tvg-name="SS | OTT 5 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SSOTT 5 HD 
+#EXTINF:-1 tvg-id="SS | OTT 5" tvg-name="SS | OTT 5 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SSOTT 5 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21378 
 
-#EXTINF:-1 tvg-id="SS | OTT" tvg-name="SS | OTT 6 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 6 HD
+#EXTINF:-1 tvg-id="SS | OTT" tvg-name="SS | OTT 6 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 6 HD
 http://ktv.im:8080/fullpack15months354/213907856/21379
 
-#EXTINF:-1 tvg-id="SS | OTT 7" tvg-name="SS | OTT 7 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 7 HD 
+#EXTINF:-1 tvg-id="SS | OTT 7" tvg-name="SS | OTT 7 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 7 HD 
 http://ktv.im:8080/fullpack15months354/213907856/21380 
 
-#EXTINF:-1 tvg-id="SS | OTT 8" tvg-name="SS | OTT 8 HD" tvg-logo="https://iili.io/2tO8jKg.png" group-title="SUPERSPORT DSTV",SS OTT 8 HD 
+#EXTINF:-1 tvg-id="SS | OTT 8" tvg-name="SS | OTT 8 HD" tvg-logo="https://iili.io/2tOP2dF.png" group-title="SUPERSPORT DSTV",SS OTT 8 HD 
