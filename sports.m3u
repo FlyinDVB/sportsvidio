@@ -74,7 +74,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="CTV Golf 1.id" tvg-logo="" group-title="VIDIO",CTV GOLF 1
+#EXTINF:-1 tvg-id="CTV Golf 1.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",Champion GOLF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -82,7 +82,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 
-#EXTINF:-1 tvg-id="CTV Golf 2.id" tvg-logo="" group-title="VIDIO",CTV GOLF 2
+#EXTINF:-1 tvg-id="CTV Golf 2.id" tvg-logo="https://iili.io/2tG1JPR.png" group-title="VIDIO",Champion GOLF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
