@@ -115,15 +115,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=dash
 
 #EXTINF:-1 tvg-id="sctv hd.id" tvg-logo="" group-title="Video Free",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-Accept=*/*
+#EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Origin=https://www.visionplus.id
+#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
+#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Origin=https://www.vidio.com
+#EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
-#EXTVLCOPT:http-Sec-Fetch-Site=cross-site
-#EXTVLCOPT:http-Connection=keep-alive
+#EXTVLCOPT:http-Sec-Fetch-Site=same-site
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
