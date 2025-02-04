@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
-#EXTINF:-1 tvg-id="bein 1.id" tvg-logo="https://ibb.co.com/gbMfdP1j" group-title="VIDIO",BEIN 1
+#EXTINF:-1 tvg-id="bein 1.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
