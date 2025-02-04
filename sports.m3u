@@ -124,16 +124,16 @@ https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 #EXTINF:-1 tvg-id="indosiar hd.id" tvg-logo="" group-title="Video Free",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##KODIPROP:inputstreamaddon=inputstream.adaptive 
-##KODIPROP:inputstream.adaptive.manifest_type=dash 
+##KODIPROP:inputstream.adaptive.manifest_type=dash+xml 
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm 
+##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=xml 
 ##https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,CODECS="avc1.64002A,mp4a.40.2"
-https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/1080p/v-1080p-1738496696_204594370000.webm?hdntl=exp=1738715715~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=101450388~data=hdntl~hmac=2f9e0ee91e96aabe42c5fc96eb4d420933960a0b839debc4be35744cb36330e4
 
 #EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Video Free",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
