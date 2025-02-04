@@ -18,7 +18,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 
-#EXTINF:-1 tvg-id="bein 2.id" tvg-logo="" group-title="VIDIO",BEIN 2
+#EXTINF:-1 tvg-id="bein 2.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -26,7 +26,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 
-#EXTINF:-1 tvg-id="bein 3.id" tvg-logo="" group-title="VIDIO",BEIN 3
+#EXTINF:-1 tvg-id="bein 3.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="VIDIO",BEIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
