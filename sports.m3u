@@ -44,7 +44,7 @@ https://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=204&type=das
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
-https://exsperiment.etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738766460~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=101450388~data=hdntl~hmac=cc6ffcc04106583cf192eeb1b9ec3a555486ce36b3537c58b2033b89a6bf79a6
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738766460~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=101450388~data=hdntl~hmac=cc6ffcc04106583cf192eeb1b9ec3a555486ce36b3537c58b2033b89a6bf79a6
 
 #EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Vidio FTA",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
