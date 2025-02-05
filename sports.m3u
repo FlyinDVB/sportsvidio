@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live-streaming-sctv-tv-online-indonesia-vidio-com
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
 #EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
@@ -20,16 +20,15 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=20&type=drm 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=101450388~data=hdntl~hmac=d5c680c0466a94264e8891e78b8c13a880aea351137214955be9fa065fac9192
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=204&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/live/205-live-streaming-indosiar-tv-online-indonesia-vidio-com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/205-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
 #EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
@@ -50,408 +49,420 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-app.vidio.com/live/8241/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnhlV3Q1ejV1aU5HVmJlQWxTL2RWZFR3M05JWWhFcHVhSm00TTVzOFpDeCtjNXFBNlpIOHEzTkgzRFExOE5GNGVuZnRHZzBPZU1CZ3BMdWQ0LzNoL3JrWWVtdkI0cUliQmF2YnNKeTJNMnp0eWdPbEpCaFFPOStyV2p2bUszZGI2VmlkTjJBcEh0VWFKTlpyNllhdTZQTGdZVjZkWFhCUlF1YXpQZ1kwWWlNNjUycXhRUHBHQSt2RjN3dDVoWGkwbTZMWDJtV01hcEo2T2hpMmFtSHB2dEJaSlhReGFOMWJ5T0Q2dFVRNktGY1BXNjk2SFVwYnNqSzNtRzVsc0lzMHcrdzE3dkdlSnRqMStZZCs0OWZ5NmNVNFNqTTdibnVLNzgrU1pTK2FCU3ExRE9MOFpLL2NIbFhxalZWOFBMdU92aXh1KzFsc1hUbnFzZWNjV216ek9lSkl1OU0vZ0hiWVRUd3RRZU1yMGJEUURKZTl1RXlhdXYyY1Rwa2VzMkhTUmVIaVlxZkQrRVB6TDlqYzFnL2lHM2NqZk5zbXhmTjRCaVdFUVRVWjMrbmRockFNakR1eWpITUtFVGlDbS9ickNDTUJISllNdmFXa0hhSUVLNzBkTUNrQnJaY2Jab0NTT2tDUll6b2IxaXBZaTA3TFpCODZuSmVhLzFoc2RWMmo4b2ZtK05IbjEzd3hucmlzMEhpemZHT1UvUDYxQUpBejhTRFNEaklMeE5VUjBYUzR4VGVneHFkQUc4RlhLWmxOblpkQjhXeXVvd25zUXc3azRNN1h4b1BkR0FFeU44L0NTWkR0RE1DWFBvS3N1K3ZDdmg1WkFQR0xiM0tJTmcxeUhhdzhmUGwyZXowWDNtTjlNT09BVUdENi9DWFpSTVRpbXRyWWo3Z2RNSlhxTnY4K09kQk9DTy9BUUI3SzhTTGcvRXNxeTNSMkU3cVppeEFEMWM5VGs3OS8rN0pVTnZtR0crUEdFRHpodGtITnlrSDl4eGtFZ3VxZ1dnbWtSZys4dG50UDRnY2hTazgxUlJuVHIwck5ZYk9ReXFXL21uR0dLd0NGUEE2cUdiQ1U9&trace_id=142449e957e71a90a1b6c234df27be9e/11387950137961331176
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=206&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 
 #EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/734-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/734_stream.mpd?hdntl=exp=1738799678~acl=%2fvp9%2f734_stream.mpd!%2fvp9%2f734%2f*!%2fvp9%2f*%2f734_stream.mpd!%2fvp9%2f*%2f734%2f*~id=101450388~data=hdntl~hmac=6bb4e7cadb426f4af24582174a69f3be68c8dbc09b8529e205c0d21450a924e0
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=734&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
 
 #EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Vidio FTA",Trans tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/733-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/733_stream.mpd?hdntl=exp=1738771614~acl=%2fvp9%2f733_stream.mpd!%2fvp9%2f733%2f*!%2fvp9%2f*%2f733_stream.mpd!%2fvp9%2f*%2f733%2f*~id=101450388~data=hdntl~hmac=43f5d73a094b1a8b1cdaadf55e252ab621a965fc3fb4857b6b1680100fe6f598
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=733&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
 
 #EXTINF:-1 tvg-id="tv one.id" tvg-logo="" group-title="Vidio FTA",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/777-tvone
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_783_720p/hdntl=exp=1738770657~acl=%2flive%2f783%2fmaster.m3u8!%2fhls-p%2fingest_783*%2f*!%2fhls-b%2fingest_783*%2f*~id=101450388~data=hdntl~hmac=289e8a10b2cac0d04de535de0e15272a52d7bfbad338abb18b0a00f58ca06834/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=783&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
 
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="" group-title="Vidio FTA",AnTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live-streaming-sctv-tv-online-indonesia-vidio-com
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/782_stream.mpd?hdntl=exp=1738771403~acl=%2fvp9%2f782_stream.mpd!%2fvp9%2f782%2f*!%2fvp9%2f*%2f782_stream.mpd!%2fvp9%2f*%2f782%2f*~id=101450388~data=hdntl~hmac=956d71e4b98afd528c2ee7176cc6f379ab8f4d732241a15d00b3c6a793b0dc03
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=782&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
 
 #EXTINF:-1 tvg-id="metro tv.id" tvg-logo="" group-title="Vidio FTA",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/777-live-streaming-sctv-tv-online-indonesia-vidio-com
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/777_stream.mpd?hdntl=exp=1738771085~acl=%2fvp9%2f777_stream.mpd!%2fvp9%2f777%2f*!%2fvp9%2f*%2f777_stream.mpd!%2fvp9%2f*%2f777%2f*~id=101450388~data=hdntl~hmac=e059f2dd7c03885186cdb1039d7af2ab2863c5f3c9f2dd88160fc3f50e0c4c13
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=777&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=777&type=dash
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="" group-title="Vidio FTA",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-kompas-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/874_stream.mpd?hdntl=exp=1738772129~acl=%2fvp9%2f874_stream.mpd!%2fvp9%2f874%2f*!%2fvp9%2f*%2f874_stream.mpd!%2fvp9%2f*%2f874%2f*~id=101450388~data=hdntl~hmac=d94b64990b7dc13377efe3a1dc00e7d0771618f08d28878bb3954e6492f95876
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=874&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-logo="" group-title="Vidio FTA",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/1561-rtv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_1561_720p/hdntl=exp=1738772335~acl=%2flive%2f1561%2fmaster.m3u8!%2fhls-p%2fingest_1561*%2f*!%2fhls-b%2fingest_1561*%2f*~id=101450388~data=hdntl~hmac=5250872a0bba8a03c5702ee898622ee8f68956a19d06df99d90339af4e30f853/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="btv.id" tvg-logo="" group-title="Vidio FTA",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/6165-btv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6165_720p/hdntl=exp=1738772597~acl=%2flive%2f6165%2fmaster.m3u8!%2fhls-p%2fingest_6165*%2f*!%2fhls-b%2fingest_6165*%2f*~id=101450388~data=hdntl~hmac=678de6e10f0f9d80a5d6290086a11e6cb0f2226242514dff358b925e73c76b2d/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=dash
 
 #EXTINF:-1 tvg-id="tvri.id" tvg-logo="" group-title="Vidio FTA",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/6441-tvri
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6441_720p/hdntl=exp=1738772931~acl=%2flive%2f6441%2fmaster.m3u8!%2fhls-p%2fingest_6441*%2f*!%2fhls-b%2fingest_6441*%2f*~id=101450388~data=hdntl~hmac=630977e03b34028900336b5ee9610d972d5ceedd910001568798d7632f2e7204/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=641&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=dash
 
 #EXTINF:-1 tvg-id="garuda tv.id" tvg-logo="" group-title="Vidio FTA",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live-streaming-sctv-tv-online-indonesia-vidio-com
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
-#EXTVLCOPT:http-Origin=https://www.vidio.com
+#EXTVLCOPT:http-Content-Length=0
+#EXTVLCOPT:http-Origin=https://www.vidio.com/live/16182-garuda-tv
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18162_720p/hdntl=exp=1738772720~acl=%2flive%2f18162%2fmaster.m3u8!%2fhls-p%2fingest_18162*%2f*!%2fhls-b%2fingest_18162*%2f*~id=101450388~data=hdntl~hmac=42ecdc311af9faca08008dff69649cf511a93a57156626ed6de98b8e3e7ff1cf/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=16182&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=16182&type=dash
 
 #EXTINF:-1 tvg-id="net.id" tvg-logo="" group-title="Vidio FTA",Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/875-net
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/875_stream.mpd?hdntl=exp=1738773055~acl=%2fvp9%2f875_stream.mpd!%2fvp9%2f875%2f*!%2fvp9%2f*%2f875_stream.mpd!%2fvp9%2f*%2f875%2f*~id=101450388~data=hdntl~hmac=dcdae9eb68b3086de952f36d1379c4252caa8020d66b94bcf5bde199e16a3822
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=875&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=875&type=dash
 
 #EXTINF:-1 tvg-id="jaktv.id" tvg-logo="" group-title="Vidio FTA",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/5415-jak-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_5415_720p/hdntl=exp=1738773276~acl=%2flive%2f5415%2fmaster.m3u8!%2fhls-p%2fingest_5415*%2f*!%2fhls-b%2fingest_5415*%2f*~id=101450388~data=hdntl~hmac=2f7b532ba4bb6233873548e4f5a5f9e4141cb6dc49c71dfa13e261ec6b2b8c73/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=dash
 
 #EXTINF:-1 tvg-id="daai.id" tvg-logo="" group-title="Vidio FTA",DAAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/6482-daai-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6482_720p/hdntl=exp=1738845355~acl=%2f*~id=101450388~data=hdntl~hmac=fb50cfbeee29c0ea910f7e3da26cc16231c438612391d81890e370710bbc5998/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=dash
 
 #EXTINF:-1 tvg-id="nusantara tv.id" tvg-logo="" group-title="Vidio FTA",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/7432-nusantara-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_7432_240p/hdntl=exp=1738773507~acl=%2flive%2f7432%2fmaster.m3u8!%2fhls-p%2fingest_7432*%2f*!%2fhls-b%2fingest_7432*%2f*~id=101450388~data=hdntl~hmac=dd03a08771f6ba96a2eed0cdf06dd3ae03e3441f831696e7381d7c84957b6dff/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=dash
 
 #EXTINF:-1 tvg-id="jawa pos.id" tvg-logo="" group-title="Vidio FTA",Jawa Pos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/9714-jawapostv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_9714_720p/hdntl=exp=1738773694~acl=%2flive%2f9714%2fmaster.m3u8!%2fhls-p%2fingest_9714*%2f*!%2fhls-b%2fingest_9714*%2f*~id=101450388~data=hdntl~hmac=402def72d49cff0c5af1de656f82701008597145397f5ef2ff4aa450b9013b9d/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=dash
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-logo="" group-title="Vidio FTA",Jtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live-streaming-sctv-tv-online-indonesia-vidio-com
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
-#EXTVLCOPT:http-Origin=https://www.vidio.com
+#EXTVLCOPT:http-Content-Length=0
+#EXTVLCOPT:http-Origin=https://www.vidio.com/live/9713-jtv
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_9713_720p/hdntl=exp=1738773813~acl=%2flive%2f9713%2fmaster.m3u8!%2fhls-p%2fingest_9713*%2f*!%2fhls-b%2fingest_9713*%2f*~id=101450388~data=hdntl~hmac=25956ce9b1246f7918ba72b952e56795449ba4ccfda5464895c18b79cbdb5730/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=dash
 
 #EXTINF:-1 tvg-id="tvn.id" tvg-logo="" group-title="Vidio FTA",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/6362-tvn
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6362_720p/hdntl=exp=1738773909~acl=%2flive%2f6362%2fmaster.m3u8!%2fhls-p%2fingest_6362*%2f*!%2fhls-b%2fingest_6362*%2f*~id=101450388~data=hdntl~hmac=c2ebe636cd5b14aecfc8d0cae87ca7d32ef04d825c8c14054976f17294c42e3e/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=dash
 
 #EXTINF:-1 tvg-id="arirang.id" tvg-logo="" group-title="Vidio FTA",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/6784-arirang
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_6784_720p/hdntl=exp=1738774127~acl=%2flive%2f6784%2fmaster.m3u8!%2fhls-p%2fingest_6784*%2f*!%2fhls-b%2fingest_6784*%2f*~id=101450388~data=hdntl~hmac=a54bc24138d0d8d6649f3d2c082ee1db66d822f420fc42b9d484edae08d761bc/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=dash
 
 #EXTINF:-1 tvg-id="ggs.id" tvg-logo="" group-title="Vidio FTA",GGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/18105-ggs-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18105_720p/hdntl=exp=1738774246~acl=%2flive%2f18105%2fmaster.m3u8!%2fhls-p%2fingest_18105*%2f*!%2fhls-b%2fingest_18105*%2f*~id=101450388~data=hdntl~hmac=aa2f1f25210cd996b8b21314f30aff88cfea72fd3b91536e29dfb808aa5e1f71/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=dash
 
 #EXTINF:-1 tvg-id="tv 5 monde.id" tvg-logo="" group-title="Vidio FTA",TV 5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -466,20 +477,21 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=dash
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/10975-elsinta-tv
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_10975_720p/hdntl=exp=1738774442~acl=%2flive%2f10975%2fmaster.m3u8!%2fhls-p%2fingest_10975*%2f*!%2fhls-b%2fingest_10975*%2f*~id=101450388~data=hdntl~hmac=6d37c08c54d1713f40151be26626c861043759ac65d2859d39b475413372e300/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=dash
 
 #EXTINF:-1 tvg-id="magna.id" tvg-logo="" group-title="Vidio FTA",Magna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -506,21 +518,21 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1873869433_b2692000_
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/7619-musica
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
-#EXTVLCOPT:http-Content-Length=2894
+#EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
 #EXTVLCOPT:http-Connectionkeep-alive
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
+#EXTVLCOPT:http-Authority=www.vidio.com
+#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
-#EXTVLCOPT:http-Connection=keep-alive
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_7619_360p/hdntl=exp=1738774680~acl=%2flive%2f7619%2fmaster.m3u8!%2fhls-p%2fingest_7619*%2f*!%2fhls-b%2fingest_7619*%2f*~id=101450388~data=hdntl~hmac=4c5f536dcc8528739cd807c5bab3e634f673514906cab520a0a59885b4f0a0ac/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7619&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=7619&type=dash
 
 //========================================================================
 //Collected by @flyin >>> SPORTS VIDIO
