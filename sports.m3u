@@ -68,6 +68,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=ex
 #EXTVLCOPT:http-Connection=keep-alive
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_206_1080p/hdntl=exp=1738769441~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=101450388~data=hdntl~hmac=933348995f7126d652133fcaaac69689a017764070a9387743d5a6ebc6ac515f/index.m3u8
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1738785474~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=101450388~data=hdntl~hmac=6d8367d9596d9806ce42a7a5330388e04a56069a66d8c53783168fe84f6f41cb/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1738786039~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=101450388~data=hdntl~hmac=d4d40aaba6ed5b74310e5f685f9c3cd66467f9d9d5c4556f4484280945018dd4/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
