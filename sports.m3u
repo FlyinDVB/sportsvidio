@@ -621,6 +621,7 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 //Collected by @flyin >>> ARENA SPORTS
 //========================================================================
 
+#EXTINF:-1 group-logo="https://iili.io/2tiPBTv.png", group-title="Arena Sport",Arena 3 Premium Serbia
 #EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
