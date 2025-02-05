@@ -21,7 +21,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=20&type=drm 
-https://www.vidio.com/live/204-live-streaming-sctv-tv-online-indonesia-vidio-com
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=101450388~data=hdntl~hmac=d5c680c0466a94264e8891e78b8c13a880aea351137214955be9fa065fac9192
+
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
