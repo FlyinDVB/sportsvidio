@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
 
+#EXTINF:-1 group-logo="https://iili.io/2ZYzuWu.png", group-title="Vidio FTA",Sctv HD
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-#EXTINF:-1 tvg-id="sctv hd.id" tvg-logo="" group-title="Video Free",Sctv HD
+#EXTINF:-1 tvg-id="sctv hd.id" tvg-logo="" group-title="Vidio FTA",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
@@ -21,7 +22,7 @@
 #KODIPROP:inputstream.adaptive.license_key=http://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=204&type=drm 
 http://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=204&type=dash
 
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Video Free",Indosiar HD
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
@@ -45,7 +46,7 @@ http://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
 http://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=205&type=dash
 
-#EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Video Free",Moji HD
+#EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Vidio FTA",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -53,7 +54,7 @@ http://experiment.etslive-v3-vidio-com-tokenized.akamaized.net/?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=206&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 
-#EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Video Free",Trans 7
+#EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -61,7 +62,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=734&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
 
-#EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Video Free",Trans tv
+#EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Vidio FTA",Trans tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -69,7 +70,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=733&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
 
-#EXTINF:-1 tvg-id="tv one.id" tvg-logo="" group-title="Video Free",Tv One
+#EXTINF:-1 tvg-id="tv one.id" tvg-logo="" group-title="Vidio FTA",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -77,7 +78,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=783&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
 
-#EXTINF:-1 tvg-id="antv.id" tvg-logo="" group-title="Video Free",AnTV
+#EXTINF:-1 tvg-id="antv.id" tvg-logo="" group-title="Vidio FTA",AnTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -85,7 +86,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=782&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
 
-#EXTINF:-1 tvg-id="metro tv.id" tvg-logo="" group-title="Video Free",Metro TV
+#EXTINF:-1 tvg-id="metro tv.id" tvg-logo="" group-title="Vidio FTA",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -93,7 +94,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=777&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=777&type=dash
 
-#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="" group-title="Video Free",Kompas TV
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="" group-title="Vidio FTA",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -101,7 +102,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=777&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=874&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
 
-#EXTINF:-1 tvg-id="rtv.id" tvg-logo="" group-title="Video Free",RTV
+#EXTINF:-1 tvg-id="rtv.id" tvg-logo="" group-title="Vidio FTA",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -109,7 +110,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=dash
 
-#EXTINF:-1 tvg-id="btv.id" tvg-logo="" group-title="Video Free",BTV
+#EXTINF:-1 tvg-id="btv.id" tvg-logo="" group-title="Vidio FTA",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -117,7 +118,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=dash
 
-#EXTINF:-1 tvg-id="tvri.id" tvg-logo="" group-title="Video Free",TVRI
+#EXTINF:-1 tvg-id="tvri.id" tvg-logo="" group-title="Vidio FTA",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -125,7 +126,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=dash
 
-#EXTINF:-1 tvg-id="garuda tv.id" tvg-logo="" group-title="Video Free",Garuda TV
+#EXTINF:-1 tvg-id="garuda tv.id" tvg-logo="" group-title="Vidio FTA",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -133,7 +134,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
 
-#EXTINF:-1 tvg-id="net.id" tvg-logo="" group-title="Video Free",Net
+#EXTINF:-1 tvg-id="net.id" tvg-logo="" group-title="Vidio FTA",Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -141,7 +142,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=875&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=875&type=dash
 
-#EXTINF:-1 tvg-id="jaktv.id" tvg-logo="" group-title="Video Free",JakTV
+#EXTINF:-1 tvg-id="jaktv.id" tvg-logo="" group-title="Vidio FTA",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -149,7 +150,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=dash
 
-#EXTINF:-1 tvg-id="daai.id" tvg-logo="" group-title="Video Free",DAAI
+#EXTINF:-1 tvg-id="daai.id" tvg-logo="" group-title="Vidio FTA",DAAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -157,7 +158,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=dash
 
-#EXTINF:-1 tvg-id="nusantara tv.id" tvg-logo="" group-title="Video Free",Nusantara TV
+#EXTINF:-1 tvg-id="nusantara tv.id" tvg-logo="" group-title="Vidio FTA",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -165,7 +166,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=dash
 
-#EXTINF:-1 tvg-id="jawa pos.id" tvg-logo="" group-title="Video Free",Jawa Pos
+#EXTINF:-1 tvg-id="jawa pos.id" tvg-logo="" group-title="Vidio FTA",Jawa Pos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -173,7 +174,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=dash
 
-#EXTINF:-1 tvg-id="jtv.id" tvg-logo="" group-title="Video Free",Jtv
+#EXTINF:-1 tvg-id="jtv.id" tvg-logo="" group-title="Vidio FTA",Jtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -181,7 +182,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=dash
 
-#EXTINF:-1 tvg-id="tvn.id" tvg-logo="" group-title="Video Free",TVN
+#EXTINF:-1 tvg-id="tvn.id" tvg-logo="" group-title="Vidio FTA",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -189,7 +190,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=dash
 
-#EXTINF:-1 tvg-id="arirang.id" tvg-logo="" group-title="Video Free",Arirang
+#EXTINF:-1 tvg-id="arirang.id" tvg-logo="" group-title="Vidio FTA",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -197,7 +198,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=dash
 
-#EXTINF:-1 tvg-id="ggs.id" tvg-logo="" group-title="Video Free",GGS
+#EXTINF:-1 tvg-id="ggs.id" tvg-logo="" group-title="Vidio FTA",GGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -205,7 +206,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=dash
 
-#EXTINF:-1 tvg-id="tv 5 monde.id" tvg-logo="" group-title="Video Free",TV 5 Monde
+#EXTINF:-1 tvg-id="tv 5 monde.id" tvg-logo="" group-title="Vidio FTA",TV 5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -213,7 +214,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=dash
 
-#EXTINF:-1 tvg-id="elsinta tv.id" tvg-logo="" group-title="Video Free",Elsinta TV
+#EXTINF:-1 tvg-id="elsinta tv.id" tvg-logo="" group-title="Vidio FTA",Elsinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -221,7 +222,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=dash
 
-#EXTINF:-1 tvg-id="magna.id" tvg-logo="" group-title="Video Free",Magna
+#EXTINF:-1 tvg-id="magna.id" tvg-logo="" group-title="Vidio FTA",Magna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -229,7 +230,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7230&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=7230&type=dash
 
-#EXTINF:-1 tvg-id="musica.id" tvg-logo="" group-title="Video Free",Musica
+#EXTINF:-1 tvg-id="musica.id" tvg-logo="" group-title="Vidio FTA",Musica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
