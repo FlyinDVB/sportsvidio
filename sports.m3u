@@ -524,25 +524,26 @@ https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/w
 //Collected by @flyin >>> SPORTS ESPN
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ESPN", ESPN Nederland
+#EXTINF:-1 group-logo="https://iili.io/2tilA7f.png", group-title="ESPN NL",ESPN 1 Nederland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/2tilA7f.png", group-title="ESPN NL", ESPN 1 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ESPN",ESPN 2 Nederland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/2tilA7f.png", group-title="ESPN NL",ESPN 2 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-hdready-avc/NL_000108_019561.mpd?p=starballtv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ESPN",ESPN 3 Nederland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/2tilA7f.png", group-title="ESPN NL",ESPN 3 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-hdready-avc/NL_000109_019464.mpd?p=starballtv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="ESPN",ESPN 4 Nederland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/2tilA7f.png", group-title="ESPN NL",ESPN 4 Nederland
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
