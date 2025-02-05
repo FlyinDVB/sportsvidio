@@ -308,7 +308,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 
-#EXTINF:-1 tvg-id="rock act.id" tvg-logo="" group-title="Vidio Sports",Rock Act
+#EXTINF:-1 tvg-id="rock act.id" tvg-logo="https://iili.io/2tGWWw7.png" group-title="Vidio Sports",Rock Act
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -316,7 +316,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=dash
 
-#EXTINF:-1 tvg-id="rock ent.id" tvg-logo="" group-title="Vidio Sports",Rock Ent
+#EXTINF:-1 tvg-id="rock ent.id" tvg-logo="https://iili.io/2tGw5Jf.png" group-title="Vidio Sports",Rock Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
