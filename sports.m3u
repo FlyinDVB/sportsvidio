@@ -559,7 +559,7 @@ https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_0
 #KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
 https://cdnlb.tvplayhome.lt/live/eds/Setanta_EE_HD/GO3_LIVE_DASH/Setanta_EE_HD.mpd
 
-#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tPpWCb.png", LI - Go 3 Sport 1
+#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tieqib.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -567,7 +567,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta_EE_HD/GO3_LIVE_DASH/Setanta_EE_HD.m
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
-#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tPpWCb.png", LI - Go 3 Sport 2
+#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tieqib.png", LI - Go 3 Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -575,7 +575,7 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spor
 #KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
 
-#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tPpWCb.png", LI - Go 3 Sport 3
+#EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://iili.io/2tieqib.png", LI - Go 3 Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
