@@ -39,12 +39,13 @@ https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/ 
+#EXTVLCOPT:http-user-agent=sky dazn/2.13.2
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Vidio FTA",Trans tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
