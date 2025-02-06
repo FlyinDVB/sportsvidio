@@ -2420,7 +2420,7 @@ https://super-cdn.link/espn5/index.m3u8
 https://super-cdn.link/espn6/index.m3u8
 
 
-#EXTINF:-1 group-logo="https://sulukway.github.io/LOGO/cubmu.png" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="TRANSVISION📺",CNN Indonesia
+#EXTINF:-1 group-logo="https://iili.io/2DqkqiB.png" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/20200924035817.jpg" group-title="TRANSVISION📺",CNN Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
