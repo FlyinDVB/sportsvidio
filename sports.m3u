@@ -2917,9 +2917,8 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
 https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17939
 
 
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="BAGONG",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kucing77899/logo/main/Indosiar-Chl-17.jpg" group-title="VIDIO", INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=205&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://sritv.serv00.net/red/play.mpd?id=205&type=dash
