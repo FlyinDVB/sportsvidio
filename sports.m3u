@@ -2915,3 +2915,11 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17939
+
+
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="BAGONG",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
