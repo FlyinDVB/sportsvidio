@@ -32,9 +32,9 @@ https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 
 #EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Vidio FTA",Moji HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17475&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/red/play.mpd?id=17475&type=dash
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
