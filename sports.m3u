@@ -19,8 +19,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=204&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=204&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=204&type=dash
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -40,8 +40,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=205&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 
 #EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Vidio FTA",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -61,8 +61,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=206&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=206&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=206&type=dash
 
 #EXTINF:-1 tvg-id="trans 7.id" tvg-logo="" group-title="Vidio FTA",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -82,8 +82,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=734&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=734&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=734&type=dash
 
 #EXTINF:-1 tvg-id="trans tv.id" tvg-logo="" group-title="Vidio FTA",Trans tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -103,8 +103,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=734&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=733&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=733&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=733&type=dash
 
 #EXTINF:-1 tvg-id="tv one.id" tvg-logo="" group-title="Vidio FTA",Tv One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -124,8 +124,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=733&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=783&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=783&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=783&type=dash
 
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="" group-title="Vidio FTA",AnTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -145,8 +145,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=783&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=782&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=782&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=782&type=dash
 
 #EXTINF:-1 tvg-id="metro tv.id" tvg-logo="" group-title="Vidio FTA",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -166,8 +166,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=782&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=777&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=777&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=777&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=777&type=dash
 
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="" group-title="Vidio FTA",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -187,8 +187,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=777&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=874&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=874&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=874&type=dash
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-logo="" group-title="Vidio FTA",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -208,8 +208,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=1561&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="btv.id" tvg-logo="" group-title="Vidio FTA",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -229,8 +229,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=1561&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6165&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=6165&type=dash
 
 #EXTINF:-1 tvg-id="tvri.id" tvg-logo="" group-title="Vidio FTA",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -250,8 +250,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6165&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=641&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=641&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=6441&type=dash
 
 #EXTINF:-1 tvg-id="garuda tv.id" tvg-logo="" group-title="Vidio FTA",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -271,8 +271,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6441&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=16182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=16182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=16182&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=16182&type=dash
 
 #EXTINF:-1 tvg-id="net.id" tvg-logo="" group-title="Vidio FTA",Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -292,8 +292,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=16182&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=875&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=875&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=875&type=dash
 
 #EXTINF:-1 tvg-id="jaktv.id" tvg-logo="" group-title="Vidio FTA",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -313,8 +313,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=875&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=5415&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=5415&type=dash
 
 #EXTINF:-1 tvg-id="daai.id" tvg-logo="" group-title="Vidio FTA",DAAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -334,8 +334,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=5415&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6482&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=6482&type=dash
 
 #EXTINF:-1 tvg-id="nusantara tv.id" tvg-logo="" group-title="Vidio FTA",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -355,8 +355,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6482&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=7432&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=7432&type=dash
 
 #EXTINF:-1 tvg-id="jawa pos.id" tvg-logo="" group-title="Vidio FTA",Jawa Pos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -376,8 +376,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9714&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=9714&type=dash
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-logo="" group-title="Vidio FTA",Jtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -397,8 +397,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9714&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9713&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=9713&type=dash
 
 #EXTINF:-1 tvg-id="tvn.id" tvg-logo="" group-title="Vidio FTA",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -418,8 +418,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9713&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6362&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=6362&type=dash
 
 #EXTINF:-1 tvg-id="arirang.id" tvg-logo="" group-title="Vidio FTA",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -439,8 +439,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6362&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6784&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=6784&type=dash
 
 #EXTINF:-1 tvg-id="ggs.id" tvg-logo="" group-title="Vidio FTA",GGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -460,16 +460,16 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6784&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=18105&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=18105&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=18105&type=dash
 
 #EXTINF:-1 tvg-id="tv 5 monde.id" tvg-logo="" group-title="Vidio FTA",TV 5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17278&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=17278&type=dash
 
 #EXTINF:-1 tvg-id="elsinta tv.id" tvg-logo="" group-title="Vidio FTA",Elsinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -489,8 +489,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=10975&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=10975&type=dash
 
 #EXTINF:-1 tvg-id="magna.id" tvg-logo="" group-title="Vidio FTA",Magna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -530,8 +530,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1873869433_b2692000_
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7619&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=7619&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=7619&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=7619&type=dash
 
 //========================================================================
 //Collected by @flyin >>> SPORTS VIDIO
@@ -542,83 +542,83 @@ https://sweet-night-1d1d.worst.workers.dev/?id=7619&type=dash
 #KODIPROP:inputstream.adaptive.license_key={"a6ade57e9ae9cea4b28633888a84c448":"84e4765e17259dd014b51d2d166ac63e"}
 #EXTINF:-1 tvg-id="Premier League TV" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Vidio Sports",Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+https://video.jasoncreak8.workers.dev/play?id=9353&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"92964e74bebce041660fb124b8976680":"b90847044266ac963f96654336370090"}
 #EXTINF:-1 tvg-id="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Vidio Sports",Bein 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+https://video.jasoncreak8.workers.dev/play?id=17884&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
 #EXTINF:-1 tvg-id="beIN SPORTS 2.my" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Vidio Sports",Bein 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
+https://video.jasoncreak8.workers.dev/play?id=17875&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b5dfecbb10fe0d3638ea692f9c501d69":"a0c27751c01554f8d792304c82303955"}
 #EXTINF:-1 tvg-id="Bein 3" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="Vidio Sports",Bein 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
+https://video.jasoncreak8.workers.dev/play?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio Sports",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+https://video.jasoncreak8.workers.dev/play?id=17938&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8097f89903c0c6afbe3fbb4f82c07e12":"0e9dde48ac7cbe59447e68d6eefe7583"}
 #EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="Vidio Sports",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
+https://video.jasoncreak8.workers.dev/play?id=6686&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3d1c52f71333f0651f9b7971eba4d6d7":"5394d82a0d04a629f95b83ce6612973b"}
 #EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="Vidio Sports",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+https://video.jasoncreak8.workers.dev/play?id=6786&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
 #EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="Vidio Sports",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+https://video.jasoncreak8.workers.dev/play?id=9182&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="Vidio Sports",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+https://video.jasoncreak8.workers.dev/play?id=9183&type=dash
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"50053fb452c6b15716f8eb9b0e524278":"c2608ef05318c7d7ea9b3694798cb15f"}
 #EXTINF:-1 tvg-id="SPOTV (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="Vidio Sports",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
+https://video.jasoncreak8.workers.dev/play?id=17139&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8d8f85d7592b081f4290a200156543cf":"aee1c7339ec279a0461500a737b3218e"}
 #EXTINF:-1 tvg-id="SPOTV 2 (HD).sg" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="Vidio Sports",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
+https://video.jasoncreak8.workers.dev/play?id=17140&type=dash
 
 #EXTINF:-1 tvg-id="rock act.id" tvg-logo="https://iili.io/2tGWWw7.png" group-title="Vidio Sports",Rock Act
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=8121&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=8121&type=dash
 
 #EXTINF:-1 tvg-id="rock ent.id" tvg-logo="https://iili.io/2tGw5Jf.png" group-title="Vidio Sports",Rock Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=8120&type=drm 
+https://video.jasoncreak8.workers.dev/play?id=8120&type=dash
 
 
 //========================================================================
