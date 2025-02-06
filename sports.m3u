@@ -2,8 +2,8 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
 
-#EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-VERSION:3
 
 #EXTINF:-1 group-logo="https://iili.io/2t1UR9a.png", group-title="Vidio FTA",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -2467,6 +2467,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 ###https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos.m3u8
 
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-VERSION:3
 #EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar V (OFF) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/kid.m3u8
