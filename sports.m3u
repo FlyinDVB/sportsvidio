@@ -2455,3 +2455,53 @@ https://super-cdn.link/espn6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3OE29QO" group-title="NASIONAL",Indosiar (Alt-a)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+###https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos.m3u8
+
+#EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar V (OFF) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/kid.m3u8
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID",Indosiar(pft)televizo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3jPvPgW8g4at6wdouF0Bxd07d4cAm-BssQ&usqp=CAU" group-title="Saluran | Olahraga",MOLA 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc 
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1738416492~acl=%2fdrm%2fdash%2f17623*~id=176824032~data=hdntl~hmac=8854372243e7e9cf22ee0a36f8a5044570af53cf70915b9176218c1e925fef94
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aDZTcRBSy7M4298C7LuW6Y82x527ffeWwezWElB5F3031FoL1et2SVU_&s=10" group-title="8. KNOWLEDGE", Nat Geo USA
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_L8ekr2sbNisnKWfkRV4MEci9OS4A8N4jA&usqp=CAU" group-title="2. SPORTS",WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/wwenetwork.png",WWE Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 1
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 2
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
