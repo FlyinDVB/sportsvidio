@@ -512,6 +512,13 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+#EXTINF:-1 tvg-id="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Vidio Sports",Bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
 #EXTINF:-1 tvg-id="beIN SPORTS 2.my" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="Vidio Sports",Bein 2
