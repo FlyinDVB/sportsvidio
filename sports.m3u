@@ -13,6 +13,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://cdnjktidc01.transvision.co.id/image/web/channel/4028c68574537fcd0174be52f87b58f2/20200924041542.png" group-title="Vision +",GTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://cdnjktidc01.transvision.co.id/image/web/channel/4028c68574537fcd0174be5ef52a5904/20200924042908.png" group-title="Vision +",MNCTV HD
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-logo="https://iili.io/2t1UR9a.png", group-title="Vidio FTA",RCTI HD
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
