@@ -513,11 +513,11 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 
 
+#EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="Vidio Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17884&type=drm
-#EXTINF:-1 tvg-id="Bein 1" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Vidio Sports",Bein 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+#KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"SlRat0ldQPGGpb89iNR4Ag", "kid":"TKHPeJBgTJiVkWCqgKj8Pg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://bimasakti.serv00.net/red/play.mpd?id=9183&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
