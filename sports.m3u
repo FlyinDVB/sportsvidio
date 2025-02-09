@@ -35,11 +35,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHoyX4.png" group-title="Vision +",BRI LIGA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=205&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=9183&type=drm
 https://udinlaw.serv00.net/vidio-test/playback.php?id=205&type=dash
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="Vision +",BRI LIGA 2
