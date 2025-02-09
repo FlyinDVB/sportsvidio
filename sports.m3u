@@ -40,7 +40,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=5db9542de47852bfb1cd0d096aaa3875:66b0bdd8ec02de10c05e51501953129d
-https://video.jasoncreak8.workers.dev/play?id=205&type=dash
+https://udinlaw.serv00.net/vidio-test/playback.php?id=205&type=dash
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="Vision +",BRI LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
