@@ -792,3 +792,363 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-c
 //Collected by @flyin >>> KIDS
 //========================================================================
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="VIDIO SPORT", Champions TV 5 (Nottingham Forest vs. Brighton & Hove Albion : Premier League Soccer)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=9182&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="VIDIO SPORT", Champions TV 6 (Manchester United vs. Crystal Palace : Premier League Soccer)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=9183&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/enuGIaRqItNHutmT--LxMS8fu-k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="VIDIO SPORT", Premier League TV (The Catch Up Show)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sulukvidio.flyinvps.workers.dev/playback.php?id=9353&type=darm
+https://sulukvidio.flyinvps.workers.dev/playback.php?id=9353&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="VIDIO SPORT", Champions TV 1 (Groningen vs. NEC Nijmegen : Eredivisie Soccer)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6685&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GA6KQDgUtVN05aMpw_cPrDu2JNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4061087/302ad3.jpg" group-title="VIDIO SPORT", Champions TV 2 (Women: Saga Hisamitsu Springs vs Victorina Himeji - SV.League)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="VIDIO SPORT", Champions TV 3 (Los Angeles Lakers at LA Clippers : NBA Basketball)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6786&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Czd2B4LaeWdHySm4vD9jWL5V1sI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060920/24dd3e.jpg" group-title="VIDIO SPORT", SPOTV (Macarthur FC vs Western United FC - A-League Men)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17139&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17139&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="VIDIO SPORT", SPOTV 2 (True Bangkok United vs Rayong FC - Thai League 1 24/25 Matchday 21)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17140&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="VIDIO SPORT", Bein 1 (Coventry City vs. Ipswich Town : FA Cup Soccer)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UxdcyoZyJgqsymVIiQ9QKf4TiAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="VIDIO SPORT", Bein 2 (AO2025 - Official Tournament Film)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="VIDIO SPORT", Bein 3 (Malaga vs. Levante UD : LaLiga 2)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JjBvaK3Bf9MIDevMg6HvbmcZ6pQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" group-title="VIDIO SPORT", NBA TV (Oklahoma City Thunder at Memphis Grizzlies : NBA Basketball)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6717&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6717&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Sz_PjKVU4WYuOsnRY7LJ7O2ALAQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg" group-title="VIDIO SPORT", Champions Golf 1 (WM Phoenix Open, Second Round : PGA Tour Golf)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=18189&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=18189&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qHN94dnAkiVkYK5AtnEEna_Z_M4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg" group-title="VIDIO SPORT", Champions Golf 2 (Round 4 : Annika)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=18190&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=18190&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GA6KQDgUtVN05aMpw_cPrDu2JNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4061087/302ad3.jpg" group-title="VIDIO EVENT", Women: Saga Hisamitsu Springs vs Victorina Himeji - SV.League (12:00 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Czd2B4LaeWdHySm4vD9jWL5V1sI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060920/24dd3e.jpg" group-title="VIDIO EVENT", Macarthur FC vs Western United FC - A-League Men (12:55 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17139&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17139&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/B8rsZVaPOtRwhayY6wO7dZRxllI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4061261/95d99d.jpg" group-title="VIDIO EVENT", WTA 1000: Qatar TotalEnergies Open 2025 - Day 1 (18:00 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6786&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_qbONYFewhYgdV3eDXkhMY1ties=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060851/1cccab.jpg" group-title="VIDIO EVENT", Venezia vs Roma - Serie A (18:00 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T67tpxzgAjJbCSKwX9FP0AoP1CQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060938/2ada1c.jpg" group-title="VIDIO EVENT", Utrecht vs Almere - Eredivisie (18:10 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LFMEdEnyiVl_sM7sJdyPdqf2WBA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060946/0d474b.jpg" group-title="VIDIO EVENT", Bristol City vs Swansea City - EFL Championship (18:50 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17975&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17975&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ccHUPtwKQnkR2gqTgw7xcQ7KvuA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060928/c825f4.jpg" group-title="VIDIO EVENT", Blackburn Rovers vs Wolves - FA Cup (19:30 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jQTv6hF3laH9dIgC5Xb4p5N8ptY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060935/55fb2c.jpg" group-title="VIDIO EVENT", Alaves vs Getafe - LaLiga (19:55 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pbukBmvhlqGA32P0FhjP3hy5vBM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060856/513dee.jpg" group-title="VIDIO EVENT", Fortuna Sittard vs Ajax - Eredivisie (20:20 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17629&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17629&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2SDljRyhSoUVHxHwcCGzSd0R_o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060852/d4a5ee.jpg" group-title="VIDIO EVENT", Lazio vs Monza - Serie A (20:30 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZW42yt7DL8QCd9sXWUdriUMRd6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060853/d6c33f.jpg" group-title="VIDIO EVENT", Cagliari vs Parma - Serie A (20:45 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17939&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17939&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OB-c68rWfX3EHlSoazeIAIF-sIY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063080/0febfa.jpg" group-title="VIDIO EVENT", ATP 500: ABN Amro Open 2025 - Final (21:30 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YEe0SeTh0_5ssgBurE1kSFBCTNk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060929/dd2206.jpg" group-title="VIDIO EVENT", Plymouth Argyle vs Liverpool - FA Cup (21:50 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n181DCYGn098S7WFDl_BT1u7Xl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060896/4b0db5.jpg" group-title="VIDIO EVENT", WTA 250: Transylvania Open - Final (21:50 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=16993&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=16993&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H90OBHC7JXeVRRM1BLynYsgCHWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060936/fd30c9.jpg" group-title="VIDIO EVENT", Valencia vs Leganes - LaLiga (22:10 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I1qDkEd6V4ulI4icKFRVN7B4SGg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4060867/4cb5da.jpg" group-title="VIDIO EVENT", AZ Alkmaar vs PEC Zwolle - Eredivisie (22:35 WIB * 09-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=18356&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=18356&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UvPseYIAJkNMHtzpsz1EYQSOkQU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063066/8574cc.jpg" group-title="VIDIO EVENT", Lecce vs Bologna - Serie A (00:00 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hW9VZIO14g2yifgQ20OyT91Th5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063067/febabb.jpg" group-title="VIDIO EVENT", Real Sociedad vs Espanyol - LaLiga (00:30 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1mdDjn9Mu99G3tvBZaUgOlnxFIQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063068/84fb25.jpg" group-title="VIDIO EVENT", Aston Villa vs Tottenham - FA Cup (00:35 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6299&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cV8K2l1A8Q94VLK2L1xxhjHh6uI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063069/f3b024.jpg" group-title="VIDIO EVENT", WM Phoenix Open 2025 - Round 4 (01:00 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=18189&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=18189&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5jNMbSrsPy-6Ufl-oVu4SxwZZo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063070/5d0361.jpg" group-title="VIDIO EVENT", WTA 1000: Qatar TotalEnergies Open 2025 - Day 1 (01:30 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5qK_pyKVxp0V-MsVP77PNZ2iseU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063458/c19be6.jpg" group-title="VIDIO EVENT", ATP 500: Dallas Open 2025 - Final (02:00 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mLZX4PXXhCJGKbwH-nHA_zUNMS0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063071/069324.jpg" group-title="VIDIO EVENT", Founders Cup presented by U.S. Virgin Islands 2025 - Round 4 (02:00 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=18190&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=18190&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xj1VRQEzlziguKU0PmM8gZNgDto=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063072/4a33b9.jpg" group-title="VIDIO EVENT", Sevilla vs Barcelona - LaLiga (02:55 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=6317&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3-jtmIL_ButlB9kKDgIL4EVwKF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063224/facf26.jpg" group-title="VIDIO EVENT", ATP 250: Open 13 Provence 2025 - Day 1 (22:00 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N-XxdUe0ktuxSkRhk7gJHzw2_uo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4063225/d32c2c.jpg" group-title="VIDIO EVENT", ATP 250: IEB+ Argentina Open 2025 - Day 1 (23:30 WIB * 10-02-2025)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=drm
+https://udinlaw.serv00.net/vidio-test/playback.php?id=17875&type=dash
