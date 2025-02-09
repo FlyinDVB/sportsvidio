@@ -10,7 +10,8 @@ http://alzizz.github.io/iptv/broadcast-rights-restrictions/02.m3u8
 
 #EXTINF:-1 group-logo="https://www.visionplus.id/webclient/img/favicon/apple-touch-icon.png", group-title="Vision +",RCTI
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="Vision +",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.licens
+e_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -41,8 +42,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-logo="https://iili.io/2t1UR9a.png", group-title="Vidio FTA",Sctv HD
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-#EXTINF:-1 tvg-id="sctv hd.id" tvg-logo="" group-title="Vidio FTA",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
@@ -60,7 +59,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #EXTVLCOPT:http-Connectionkeep-alive
-https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1739153284~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=101450388~data=hdntl~hmac=1af856b89d4c080703f2415cfacedf5e15605aeeb6251b6b64c8bf094ff6326f
+https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204/primary/720p/v-720p-idx.webm?hdntl=exp=1739154219~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~id=101450388~data=hdntl~hmac=05cbe7ced98fd00412e2056ae0e2b41f379f715f16b0f99dd94523e6ed9343c4
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -95,7 +94,6 @@ https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.m
 #EXTVLCOPT:http-cookie: ahoy_visitor=4f948ed3-2189-4cb4-bf96-389716e130f3;remember_user_token=eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczNPVGs1TnpNd04xMHNJaVF5WVNReE1DUk9TV2wwU2xwRE1HcFRlR0ZOYzA1dlFrOUtRMEpQSWl3aU1UWXpOREl6TXpFeU5DNDNNVE01TkRRMElsMD0iLCJleHAiOiIyMDIzLTEwLTE0VDE3OjM4OjQ0LjcxM1oiLCJwdXIiOiJjb29raWUucmVtZW1iZXJfdXNlcl90b2tlbiJ9fQ%3D%3D--8bca7815bffbd060c82558e02389de9a6e3f4787;ce.s=v11.rlc~1611136422169;shva=1;_vidio=true;sda=false;_dc_gtm_UA-47200845-12=1;asc=5a910da91771f36c462d0f191b3;_auc=3d1686a4175fa4879aa9a435470;_gid=GA1.2.1127931063.1611136420;_gat_UA-47200845-12=1;plenty_id=57152563;_vidio_session=UjI1QTRTSWt1cXZTYjZlQjBKOFlGdWxaelFFVzlRd2FURmVmcWIrTUcvY0FLSnlBbUNCMDlMYm85dU40TnZ2cHBIbmNjNlErU2hKZ0c4SWllZnJreFkwNGRIeWoxaVVoM3FJL25nTzNhQmhZREpFd254dGQ1T3I1MnFOSmgyQWdGcnlVRlF0QXozaEZLaTd0Vkprd2NOTitnSW9zUklGNDVKRWFYYnNLZFZ4Z0o3RGdFMnoyVHJNaXEvNEF2aHhBREtUS2VnWTU1QzJ6ZEFtc1AwMXlrdTJJZSsrZjVMUktqTlZ5ZWgwNklQZkd6bkZWL0t5ZURNbTdhOFpnTFpLL2VsVGJXRFZQYzdFcHI5WXdHYWdBYXlxdU16d1RIbWpGSTk1ditXSnBkMGhBam5yUnFUYjBJSGEzQ0lNSk9pL3hkSHNTcHI3YWV1cU5TejhnUFZNTjYxNVgxUnhheDZqUlhrS1pjaElIZTNtUDZRU3JaQlkydjJ0Y3ovUGN2ZEw3dmh5YktPNkVkcFVkOS9WVThZYjVmTHFRUnBidWRpdDVBVzYvYkhYUThVdURFY0tvcEFWM2JNY09uc3BSZ0JyVVBYOTMydDZGaW5oNDdVZDBtVUhka3JaanRaY1lYR0ZjL2FMZlcyOGNlZng0SkVVZWVqNFJkVDV0bGZocGlKMnNqV2RXRmlwUmNwdDlLaW1mVXZhbS9BPT0tLW90SlpFZUdmSHhvRDZ1VVptTHZsaHc9PQ%3D%3D--a78041767b2a9bfc6c61b0517845fbfc2c863ead=GS1.1.1611136419.31.1.1611137095.53;_ga=GA1.1.457970976.1605540749;_fbp=fb.1.1608799772349.519047493;ahoy_visit=eab44f40-b5aa-4454-a587-02c1039e989a;show_phone_verification_modal=true;luws=fc6901b639730e006deb0554_57152563;kppid_managed=kppidff_NxLYJm71';
 #EXTVLCOPT:http-Connection=keep-alive
 https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/hls-p/ingest_206_720p/hdntl=exp=1739153636~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=101450388~data=hdntl~hmac=cbfd269e82429fb00a9d15c53b91a8c6d1e225fe3a3e73dbad3637f54a6231b1/index.m3u8
-
 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Vision +",Trans TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
