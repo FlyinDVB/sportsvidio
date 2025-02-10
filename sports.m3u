@@ -51,7 +51,7 @@ https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.m
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://bf.jl4play.com/live/5004438_hd01.m3u8?txSecret=e797812fb5e0d2e7e729f778669c2eeb&txTime=67a9b72d
+https://bf.jl4play.com/live/5004438_hd01-1739177995.ts?txspiseq=116027848241226383360
 
 #EXTINF:-1 tvg-id="moji hd.id" tvg-logo="" group-title="Vidio FTA",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
