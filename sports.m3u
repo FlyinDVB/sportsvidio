@@ -32,7 +32,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 group-logo="https://iili.io/2t1UR9a.png", group-title="Vidio FTA",Sctv HD
+#EXTINF:-1 group-logo="", group-title="Vision +",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
@@ -49,7 +49,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-Connectionkeep-alive
 https://experiment-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1739228106~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=101450388~data=hdntl~hmac=378b26351c3bca50630568aea0175240eaeae824149f28a005619fabe0a8f3d2
 
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vidio FTA",Indosiar HD
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vision +",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://bf.jl4play.com/live/5004438_hd01-1739177995.ts?txspiseq=116027848241226383360
 
