@@ -32,6 +32,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+EXT-X-VERSION:3
 #EXTINF:-1 group-logo="", group-title="Vision +",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-Accept: */*
