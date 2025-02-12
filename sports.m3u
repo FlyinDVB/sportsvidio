@@ -35,7 +35,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 EXT-X-VERSION:3
 #EXTINF:-1 group-logo="", group-title="Vision +",Sctv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://trojan.flyin.my.id/api/adi.php?id=204
+https://ikan.flyinvps.workers.dev/
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="" group-title="Vision +",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
